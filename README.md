@@ -9,16 +9,16 @@ TTGO-T8 ESP32  (16MB Flash Size,with 8MB PSRAM,and built-in SD-Card Slot and Pow
 3.7V lithium battery
 
 # Currently Feactures:
-Just showing animations (gif)
-Div up to 250
-Frames up to 200
+Just showing animations (gif)<br/>
+Div up to 250<br/>
+Frames up to 200<br/>
 
 
 # Used Libraries:
 NeopixelBus
 
 # TODO
-1.Using BLE to control it! eg.Next/Pause/Speed Control/Sendding new animation to bbPOV ....
-2.Using WIFI to show some Internet's data   eg.My Bilibili's Subscribers...
-3.Using SD-Card to store more data.
+1.Using BLE to control it! eg.Next/Pause/Speed Control/Sendding new animation to bbPOV ....<br/>
+2.Using WIFI to show some Internet's data   eg.My Bilibili's Subscribers...<br/>
+3.Using SD-Card to store more data.<br/>
 4.Figure out how to use PSRAM to make it possible to show different larger animation.(Currently,because of the small RAM of the esp32,all of the animations are stored in the Flash,and they are static,which means they can't be changed without re-flash or OTA.) 
