@@ -1,6 +1,6 @@
 # bbPOV-V2
 The 2nd Gen of Corebb's POV Display,Using ESP32.
-
+![show case](https://raw.githubusercontent.com/RealCorebb/bbPOV-V2/master/image/first.gif)
 Thanks to homemadegarbage.com for the article, the code is based on it and has undergone many optimizations.
 
 # HardWares:
