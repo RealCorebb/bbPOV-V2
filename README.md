@@ -4,8 +4,8 @@ The 2nd Gen of Corebb's POV Display,Using ESP32.
 Thanks to homemadegarbage.com for the article, the code is based on it and has undergone many optimizations.
 
 # HardWares:
-Apa102
-TTGO-T8 ESP32  (16MB Flash Size,with 8MB PSRAM,and built-in SD-Card Slot and Power socket)
+Apa102<br/>
+TTGO-T8 ESP32  (16MB Flash Size,with 8MB PSRAM,and built-in SD-Card Slot and Power socket)<br/>
 3.7V lithium battery
 
 # Currently Feactures:
