@@ -1,3 +1,4 @@
+# 已放弃开发，如有闲余时间会重制下一代
 # bbPOV-V2
 The 2nd Gen of Corebb's POV Display,Using ESP32.
 ![show case](https://raw.githubusercontent.com/RealCorebb/bbPOV-V2/master/image/first.gif)<br/>
